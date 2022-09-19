@@ -5,5 +5,5 @@ Extract SQL from program
 
 1,Enter your program in the central text area
 
-２,Press the '変換' button on the bottom left
+2,Press the '変換' button on the bottom left
 
